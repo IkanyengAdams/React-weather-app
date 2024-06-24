@@ -25,6 +25,10 @@
   font-size: 18px;
 }
 
-.search-bar input img{
-  
+.search-bar img{
+  width: 50px;
+  padding: 15px;
+  border-radius: 50px;
+  background: #ebfffc;
+  cursor: pointer;
 }
